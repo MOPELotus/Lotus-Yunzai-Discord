@@ -1,0 +1,8 @@
+/node_modules/
+/dist/
+/coverage/
+/.host-shape-check.ts
+.env
+.env.*
+*.log
+*.tsbuildinfo
